@@ -1,12 +1,3 @@
--- Gui to Lua
--- Version: 3.2
-
--- Instances--
-
-
-
-
-
 -- Properties
 local SuperPunch = Instance.new("TextButton")
 local Invisible = Instance.new("TextButton")
