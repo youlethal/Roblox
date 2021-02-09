@@ -76,9 +76,9 @@ end
 local rotx = 0;
 local rotz = math.pi / 2;
 local height = 0;
-local heighti = 1;
-local offset = 10;
-local speed = 0.5;
+local heighti = 2;
+local offset = 2;
+local speed = 25;
 local yl = 4;
 local angular = Vector3.new(0, 0, 0);
 local l = 1;
