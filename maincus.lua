@@ -2332,12 +2332,12 @@ FeaturedExploits = {
 		Colour = Color3.fromRGB(34, 133, 255),
 		Code = "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",	
 	},
-	ezhub = {
-		Name = "EZHub",
-		Author = "EZ Industries",
+	Hats = {
+		Name = "Hats",
+		Author = "Hats",
 		ImageID = 0,
 		Colour = Color3.fromRGB(255, 177, 20),
-		Code = "https://raw.githubusercontent.com/debug420/Ez-Industries-Launcher-Data/master/Launcher.lua"
+		Code = "https://raw.githubusercontent.com/youlethal/Roblox/main/hats.lua"
 	},
 	Emotes = {
 		Name = "Emotes",
@@ -2352,7 +2352,7 @@ FeaturedExploits = {
 		Author = "LOL",
 		ImageID = 0,
 		Colour = Color3.fromRGB(211, 116, 170),
-		Code = "https://github.com/youlethal/Roblox/blob/main/troll.lua"
+		Code = "https://raw.githubusercontent.com/youlethal/Roblox/main/troll.lua"
 		
 		},
 	
@@ -2360,8 +2360,8 @@ FeaturedExploits = {
 		Name = "Building",
 		Author = "LOL",
 		ImageID = 0,
-		Colour = Color3.fromRGB(211, 116, 170),
-		Code = "https://github.com/youlethal/Roblox/blob/main/Building.txt"
+		Colour = Color3.fromRGB(111, 116, 170),
+		Code = "https://raw.githubusercontent.com/youlethal/Roblox/main/Building.txt"
 	},
 
 }
