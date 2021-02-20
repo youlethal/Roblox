@@ -863,7 +863,7 @@ GiveGuns.MouseButton1Click: Connect(function()
 	for i,v in pairs(Workspace.Prison_ITEMS.giver:GetChildren()) do
 
 OwO = Workspace.Remote.ItemHandler:InvokeServer(v.ITEMPICKUP)
-end
+
 end)
 
 
