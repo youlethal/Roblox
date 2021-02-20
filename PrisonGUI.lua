@@ -864,7 +864,12 @@ GiveGuns.MouseButton1Click: Connect(function()
 
 OwO = Workspace.Remote.ItemHandler:InvokeServer(v.ITEMPICKUP)
 end
+		game.workspace.Remote.ItemHandler:InvokeServer(workspace.Prison_ITEMS.single.Hammer.ITEMPICKUP)
+end
+		
+		
 end)
+
 
 
 ---Arrest All----
